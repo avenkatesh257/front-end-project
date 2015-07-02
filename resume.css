@@ -1,0 +1,43 @@
+.container-fluid {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   background-color: FFB6C1;
+}
+
+.leftside {
+	text-align: left;
+	float:left;
+	width:60%;
+	margin: auto;
+}
+
+.rightside {
+    text-align: left;
+    float: right;
+    width:30%;
+    margin: auto;
+}
+
+
+
+.maintitle {
+    color: purple;
+    font-weight: bold;
+    display: block;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-size: larger;
+
+}
+.job{
+	color: purple;
+}
+.description {
+    text-align: left;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-style: italic;
+}
+.information {
+    text-align: left;
+
+}
+
+
